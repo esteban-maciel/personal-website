@@ -2,6 +2,18 @@
     max-width: 1000px;
 }
 
+body {
+    padding-bottom: 70px;
+}
+
+/* navbar */
+
+.nav-item {
+    font-weight: 500;
+    color: black;
+}
+
+/* landing block */
 .landing-title {
     font-weight: 700;
     font-size: 24pt;
@@ -16,4 +28,19 @@
     font-weight: 300;
     font-size: 14pt;
     color: black;
+}
+
+/* projects */
+
+.projects-title {
+    font-weight: 700;
+    font-size: 22pt;
+}
+
+.card-title {
+    font-weight: 400;
+}
+
+.card-text {
+    font-weight: 400;
 }
