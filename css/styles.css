@@ -10,7 +10,6 @@ body {
 
 .nav-item {
     font-weight: 500;
-    /* color: black; */
 }
 
 /* landing block */
@@ -27,7 +26,6 @@ body {
 .email-link {
     font-weight: 300;
     font-size: 14pt;
-    /* color: black; */
 }
 
 /* projects */
@@ -43,4 +41,8 @@ body {
 
 .card-text {
     font-weight: 400;
+}
+
+.navbar-brand {
+  color: inherit !important;
 }
