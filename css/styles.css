@@ -10,7 +10,7 @@ body {
 
 .nav-item {
     font-weight: 500;
-    color: black;
+    /* color: black; */
 }
 
 /* landing block */
@@ -27,7 +27,7 @@ body {
 .email-link {
     font-weight: 300;
     font-size: 14pt;
-    color: black;
+    /* color: black; */
 }
 
 /* projects */
